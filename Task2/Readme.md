@@ -1,11 +1,13 @@
 TASK 2 OF CODSOFT INTERNSHIP
 
-PROJECT NAME:- MOVIE RATING PREDICTION
+## PROJECT NAME
+MOVIE RATING PREDICTION
 
-PROBLEM STATEMENT:- Build a model that predicts the rating of a movie based on
+## PROBLEM STATEMENT
+Build a model that predicts the rating of a movie based on
 features like genre, director, and actors.
 
-PROJECT EXPLAINATION:-
+## PROJECT EXPLAINATION
 
 1. IMPORTING LIBRARIES:- the first step involves importing differnt python libraries for data analysis and model building. The libraries used are Pandas,numpy,Scikitlearn.
 2. IMPORTING DATA:- The next step is to import dataset. we import the csv file and store the data as a dataframe.
