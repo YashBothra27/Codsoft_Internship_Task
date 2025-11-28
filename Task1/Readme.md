@@ -1,10 +1,12 @@
 Task 1 of codsoft  internship.
 
-Project Name:- TITANIC SURVIVAL PREDICTION
+### PROJECT NAME
+TITANIC SURVIVAL PREDICTION
 
-Problem Statement:- Use the Titanic dataset to build a model that predicts whether apassenger on the Titanic survived or not.
+### PROBLEM STATEMENT
+Use the Titanic dataset to build a model that predicts whether apassenger on the Titanic survived or not.
 
-project Explaination:-
+### PROJECT DETAILS
 1. IMPORTING MODULES :-
       We import different python modules required for the project namely: Numpy,Pandas,Matplotlib
 2. IMPORTING DATASET :-
