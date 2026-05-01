@@ -1,7 +1,7 @@
 # Titanic Survival Prediction
 
 ## Project Overview
-This project aims to predict whether a passenger survived the Titanic disaster using machine learning. It follows a structured workflow including data cleaning, exploratory data analysis, feature engineering, and model building. This project was developed as part of the CodSoft Internship.
+This project aims to predict whether a passenger survived the Titanic disaster using machine learning. It follows a structured workflow including data cleaning, exploratory data analysis, feature engineering, and model building. This project was developed as part of the CodSoft Internship (Task1).
 
 ---
 
