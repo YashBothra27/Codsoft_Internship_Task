@@ -1,13 +1,126 @@
-## PROJECT DESCRIPTION
-This is the repository containing the tasks(project) performed by me during the codsoft Data Science internship starting from 10-Nov-2025 to 10-Dec-2025.
-The tasks were performed using python and its libraries mainly Numpy,pandas,matplotlib,seaborn,scikitlearn.
-This repository contains 5 tasks.
-## TASK DESCRIPTION
-1. Task1 TITANIC SURVIVAL PREDICTION: This project focuses on building a regression model using python and libraries to predict Wheteher a passenger survives or not. this project includes predictive model,data anlysis, data preprocessing
-2. Task2 MOVIE RATING PREDICTION:- In this project, the focus is to built a random forest model to predict movie ratings based on the given features like genre, director, actors, year and actors.
-3. Task3 IRIS FLOWWER CLASSIFICATION:- Using a logistic regression model trained a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species.
-4. task4 SALES PREDICTION MODEL:- This project focuses on predicting sales of business using regression model. the project includes basic EDA,data preprocessing, and a predictive model.
-5. Task5 CREDIT CARD DFRAUD DETECTION:- This project focuses on building a machine learning model to identify fraudulent credit card transactions using logistic regression.
-## PROJECT OUTCOME
-During this project i learned and implement the core concept of Data Science. The use of Python and its libraries to build model using real orld dataset were helpful in understand real world problem
-This Internship helped me to improve my core data science skills like data preprocessing,data handling, visualizing charts,and building machine learning models.
+# 📊 CodSoft Data Science Internship Projects
+
+A curated collection of Machine Learning and Data Science projects completed during my **CodSoft Data Science Internship**.
+
+This repository showcases practical implementation of:
+- Data Analysis
+- Machine Learning
+- Real-world Dataset Handling
+
+The projects were developed using Python and its Data Science ecosystem.
+
+---
+
+## Repository Structure
+
+```text
+Codsoft_Internship_Task/
+│
+├── 🚢 Task1_Titanic_Survival_Prediction/
+│   ├── Predict passenger survival using Machine Learning
+│   ├── Includes preprocessing, EDA, and Logistic Regression model
+│
+├── 🎬 Task2_Movie_Rating_Prediction/
+│   ├── Predict movie ratings using feature-based analysis
+│   ├── Includes Random Forest model and data preprocessing
+│
+├── 🌸 Task3_Iris_Flower_Classification/
+│   ├── Classify Iris flower species using flower measurements
+│   ├── Includes Logistic Regression classification model
+│
+├── 📈 Task4_Sales_Prediction/
+│   ├── Predict sales using advertising expenditure data
+│   ├── Includes EDA, visualization, and Linear Regression model
+│
+├── 💳 Task5_Credit_Card_Fraud_Detection/
+│   ├── Detect fraudulent credit card transactions
+│   ├── Includes SMOTE balancing and Random Forest classifier
+│
+├── 📄 requirements.txt
+│   ├── Contains all required Python libraries
+│   ├── Helps in setting up project dependencies
+│
+└── README.md
+```
+
+---
+
+## Tools & Technologies Used
+
+| Category | Technologies |
+|---|---|
+| 💻 Programming Language | Python |
+| 🧹 Data Cleaning & Manipulation | Pandas, NumPy |
+| 📊 Data Visualization | Matplotlib, Seaborn |
+| 🤖 Machine Learning Libraries | Scikit-learn, Imbalanced-learn (imblearn) |
+| 🖥️ Development Platforms | Jupyter Notebook, Visual Studio Code (VS Code) |
+
+---
+
+## Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/YashBothra27/Codsoft_Internship_Task.git
+```
+
+---
+
+### 2️⃣ Navigate to the Project Directory
+
+```bash
+cd Codsoft_Internship_Task
+```
+
+---
+
+### 3️⃣ Requirements
+
+Make sure the following are installed on your system:
+
+- Python 3.10+
+- pip
+
+---
+
+### 4️⃣ Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+---
+
+##  Skills Demonstrated
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning Model Building
+- Classification & Regression Techniques
+- Data Visualization
+- Model Evaluation & Performance Analysis
+
+---
+
+## Project Outcome
+
+These internship projects helped me strengthen my understanding of:
+
+- Core Data Science concepts
+- Machine Learning model development
+- Real-world business problem solving
+- Predictive analytics techniques
+- Data preprocessing and visualization
+- Working with structured datasets
+- End-to-end project development using Python
+
+The internship significantly improved my practical implementation skills using Python, Machine Learning libraries, and real-world datasets.
+
+---
+
+## Author
+
+### *Yash Kumar Bothra*
+---
+
+⭐ If you find these projects interesting, feel free to explore the repository!
